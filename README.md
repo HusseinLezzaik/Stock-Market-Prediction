@@ -1,10 +1,9 @@
 # Stock Market Prediction using Machine Learning
 
 ## Introduction
-Machine Learning is becoming more and more popular in finance. Thanks to its ability to handle large and complex amounts of data, Machine Learning is
-now transforming the financial industry like never before. This technology plays a very important role in many aspects of the finance world, from managing assets
-to carrying out loans. Because of the high volume of historical data available in the finance industry, Machine Learning has found various application in this
-field.
+<p>
+<img src="table.jpg" width="1000" >
+</p>
 
 We built a ML model to predict France’s stock market, trained on France’s CAC40 dataset from Yahoo Finance! We implemented SVM for Portfolio Optimization for Trend Prediction, and developed LSTM-models fusing datasets to improve prediction & made a 7-day prediction.
 
