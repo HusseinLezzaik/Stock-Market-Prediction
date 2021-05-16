@@ -24,7 +24,13 @@ In this repo, you'll find :
 
 ## Getting Started
 1.  Clone our repo: `git clone https://github.com/HusseinLezzaik/Stock-Market-Prediction.git`
-
+2.  Install dependencies:
+    ```
+    conda create -n stock-market python=3.8
+    conda activate stock-market
+    pip install -r requirements.txt
+    ```
+3. Run `LSTM_METHOD.ipynb` for the method you want to make stock market prediction
 
 
 ## Collaborators
