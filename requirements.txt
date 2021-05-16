@@ -1,0 +1,6 @@
+jupyter notebook
+pandas
+numpy
+matplotlib
+scikit-learn
+keras
