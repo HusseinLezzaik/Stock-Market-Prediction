@@ -17,7 +17,7 @@ market.
 ## Overview of the Repository
 In this repo, you'll find :
 * `LSTM`: Code for LSTM Vanilla & advanced models in jupyter notebook
-* `Data`: Dataset of France stock market from Yahoo Finance
+* `Data`: Dataset of France stock market 2020 from Yahoo Finance
 * ` data_processing ` : Code for data pre-processing and feature engineering for SVM model for financial indicators
 *  ` models ` : Code for SVM model weekly & monthly results, to invest or not
 * `Reports` : Detailed documentation of our approach, software and results
