@@ -12,14 +12,15 @@ We built a ML model to predict France’s stock market, trained on France’s CA
 Machine learning and finance are connected.
 2.  Secondly, the work includes a study of the portfolio management problem as well as applying the SVM and neural network methods in the French stock
 market.
-3.  Thirdly, a study on the credit risk evaluation problem as well as ”overdraft” data. Also an application that takes into account all types of standard customer data.
+3.  Thirdly, a study on the credit risk evaluation problem as well as ”overdraft” data. Also an applica.tion that takes into account all types of standard customer data.
 
 ## Overview of the Repository
 In this repo, you'll find :
-* `Code`: Folder that contains all code for our algorithms and simulation.
-
-
-You can find more details about our approach, equations, and results in `
+* `LSTM`: Code for LSTM Vanilla & advanced models in jupyter notebook
+* `Data`: Dataset of France stock market from Yahoo Finance
+* ` data_processing ` : Code for data pre-processing and feature engineering for SVM model for financial indicators
+*  ` models ` : Code for SVM model weekly & monthly results, to invest or not
+* `Reports` : Detailed documentation of our approach, software and results
 
 ## Getting Started
 1.  Clone our repo: `git clone https://github.com/HusseinLezzaik/Stock-Market-Prediction.git`
